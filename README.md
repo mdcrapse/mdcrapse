@@ -24,5 +24,6 @@ I have been designing and developing software since 2015.
 [Airline Seating](https://github.com/mdcrapse/airline_seating)
 * Fictional airline assistant software based on C++ coursework.
 * Supports saving and loading seating configurations in JSON.
+* Features a text-based graphical user interface.
 
 ... and many unpublished works.
