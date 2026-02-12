@@ -8,6 +8,11 @@ I have been designing and developing software since 2015.
 * Utilizes React.js for the front end and ASP.NET for the back end.
 * Created in collaboration with Idaho State University faculty and students.
 
+University of Idaho Game Developers United [Website](https://ui-gdu.github.io/) and [Presentation](https://mikeeybikeey.itch.io/gdu-jam4?password=gdu)
+* The introductions for students interested in game development at the University of Idaho.
+* Utilizes React, TypeScript, GitHub Pages, and GitHub Actions for the website.
+* The interactive presentation uses Godot 4 for the client and server.
+
 [Musical Bindings](https://github.com/mdcrapse/musical_bindings)
 * Binds musical notes from the microphone to simulated keyboard inputs.
 * Utilizes Rust for performance and multithreading.
