@@ -23,6 +23,10 @@ University of Idaho Game Developers United [Website](https://ui-gdu.github.io/) 
 * Utilizes Javascript and GdScript through the Chrome Extension API and the Godot 3 HTML export.
 * Correctly interprets the DOM of most common web pages such as Wikipedia.
 
+[Mikesweeper](https://github.com/mdcrapse/Mikesweeper)
+* Minesweeper game with settings and puppy mode.
+* Utilizes C# and MonoGame to process logic and display the game.
+
 [Doodle Noodle](https://github.com/mdcrapse/doodle_noodle) (prototype)
 * Transforms images of text into colliding objects on an Android phone.
 * Utilizes Godot and Gdscript while leveraging a Rust dynamic link library for pixel search performance.
