@@ -3,9 +3,14 @@
 I have been designing and developing software since 2015.
 
 ### Projects
+Idaho National Laboratory [Deeplynx Nexus](https://github.com/idaholab/DeepLynx/tree/develop)
+* The central integration point for the DeepLynx data ecosystem.
+* Utilizes React with TypeScript for the front-end and ASP.NET for the back-end.
+* Essentially a one-stop shop for all your proprietary nuclear data needs.
+
 [Redux](https://github.com/ReduxISU?tab=repositories)
 * Interactive library of Nondeterministic Polynomial-time Complete (NP-complete) problems.
-* Utilizes React.js for the front end and ASP.NET for the back end.
+* Utilizes React.js for the front-end and ASP.NET for the back-end.
 * Created in collaboration with Idaho State University faculty and students.
 
 Virtual Reality UIdaho Cleanroom
